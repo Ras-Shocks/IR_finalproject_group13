@@ -43,7 +43,7 @@ Following input datasets are used:
 
 Some cells might take longer to run like loading embeddings, etc.
 ```
-python 
+python healthy_diet_recommender.py
 ```
 
 ## Authors
