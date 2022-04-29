@@ -41,9 +41,9 @@ Following input datasets are used:
 
 ## Help
 
-Any advise for common problems or issues.
+Some cells might take longer to run like loading embeddings, etc.
 ```
-command to run if program contains helper info
+python 
 ```
 
 ## Authors
