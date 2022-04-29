@@ -7,6 +7,9 @@
 An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
+From the earliest stages of foetal development to old age, nutrition is the most important factor in human health and growth. Healthy
+diet and nutrition are unquestionably necessary for survival, physical development, mental growth, performance and productivity, as well as health and well-being. With increasing cases of health related problems as well as malnutrition/obesity and lack of nutrition related guidance it is imperative to have a system to recommend diet based food/meals. We propose a system which can recommend meals based on nutritional requirements/preferences as required
+by the user.
 
 ### Dependencies
 
