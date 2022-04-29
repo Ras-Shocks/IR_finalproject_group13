@@ -10,6 +10,19 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
+Following libraries needs to be installed:
+* sklearn
+* warnings
+* numpy
+* pandas
+* seaborn
+* matplotlib
+* tqdm
+* gensim
+* nltk
+* sentence_transformers
+* recmetrics
+
 Following input datasets are used:
 * https://www.kaggle.com/datasets/facebook/fasttext-wikinews
 * https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
